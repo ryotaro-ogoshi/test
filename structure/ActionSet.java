@@ -1,0 +1,1 @@
+package com.nishinolab.imass.game.structure;public abstract class ActionSet {    abstract public String toString();}
